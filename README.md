@@ -179,6 +179,6 @@ My LinkedIn profile: www.linkedin.com/in/zahra-amanli
 
 ---
 
-**Author:** Zahra Amanli
+**Zahra Amanli** 
 
 
