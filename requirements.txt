@@ -1,0 +1,24 @@
+geopy==2.4.1
+gin-config==0.5.0
+gitdb==4.0.12
+GitPython==3.1.44
+glob2==0.7
+google==2.0.3
+google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
+googledrivedownloader==1.1.0
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.2
+numpy==1.26.4
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.28.0
+pandas-stubs==2.2.2.240909
+sklearn-pandas==2.2.0
+scikit-learn==1.6.1
+torch @ https://download.pytorch.org/whl/cu124/torch-2.5.1%2Bcu124-cp311-cp311-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu124/torchaudio-2.5.1%2Bcu124-cp311-cp311-linux_x86_64.whl
+torchsummary==1.5.1
+torchvision @ https://download.pytorch.org/whl/cu124/torchvision-0.20.1%2Bcu124-cp311-cp311-linux_x86_64.whl
+
+
