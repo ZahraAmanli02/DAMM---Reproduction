@@ -1,3 +1,6 @@
+
+
+
 # Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction
 
 This repository contains implementations for reproducing results from the paper **"Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction"** using the **nuScenes** and **Argoverse** datasets.
@@ -20,8 +23,9 @@ Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Predicti
 
 This work is a reproduction of the CVPR 2024 paper:
 
-> **"Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction"**  
-> *Di Wen, Haoran Xu, Zhaocheng He, Zhe Wu, Guang Tan, Peixi Peng*
+> [**"Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction"**](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_Density-Adaptive_Model_Based_on_Motif_Matrix_for_Multi-Agent_Trajectory_Prediction_CVPR_2024_paper.html)
+
+> *Di Wen, Haoran Xu, Zhaocheng He, Zhe Wu, Guang Tan, Peixi Peng* 
 
 
 Key features:
@@ -67,7 +71,7 @@ To run the experiments, you need to obtain the dataset first. There are two ways
 
 ### Option 1: Download from the Official Website
 The datasets can be downloaded from their official sources:
-- **Argoverse:** [https://www.argoverse.org](https://www.argoverse.org)
+- **Argoverse:** [https://www.argoverse.org](https://www.argoverse.org) 
 - **nuScenes:** [https://www.nuscenes.org](https://www.nuscenes.org)
 
 After downloading, extract the dataset and organize it into `train`, `val`, and `test` folders before use.
@@ -179,6 +183,4 @@ My LinkedIn profile: www.linkedin.com/in/zahra-amanli
 
 ---
 
-**Zahra Amanli** 
-
-
+**Zahra Amanli**
