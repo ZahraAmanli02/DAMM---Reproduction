@@ -49,13 +49,15 @@ pip install torch numpy pandas matplotlib scikit-learn
 
 **Library Versions:**
 
-- `torch`: 2.0.1
-- `torchvision`: 0.15.2
-- `torchaudio`: 2.0.2
-- `numpy`: 1.23.5
-- `pandas`: 1.5.3
-- `matplotlib`: 3.6.3
-- `scikit-learn`: 1.2.2
+- `torch`
+- `torchvision`
+- `torchaudio`
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scikit-learn`
+
+**For more information: requirements.txt**
 
 
 ### Cloning the Repository
