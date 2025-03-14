@@ -19,7 +19,7 @@ This repository contains implementations for reproducing results from the paper 
 
 ## Overview
 
-Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction" presents a new technique for multi-agent trajectory prediction which makes use of a Density-Adaptive Motif Matrix (DAMM). The main idea is describing better how agents act in complicated situations with adaptive spatial and temporal interactions. In contrast to existing techniques that depend primarily on graph-based or transformer-based models, DAMM explicitly adds a Spatial-Temporal Motif Matrix (STMM), which dynamically encodes relational information across agents.
+"Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction" presents a new technique for multi-agent trajectory prediction which makes use of a Density-Adaptive Motif Matrix (DAMM). The main idea is describing better how agents act in complicated situations with adaptive spatial and temporal interactions. In contrast to existing techniques that depend primarily on graph-based or transformer-based models, DAMM explicitly adds a Spatial-Temporal Motif Matrix (STMM), which dynamically encodes relational information across agents.
 
 This work is a reproduction of the CVPR 2024 paper:
 
