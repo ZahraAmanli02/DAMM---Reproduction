@@ -63,9 +63,19 @@ pip install torch numpy pandas matplotlib scikit-learn
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/ZahraAmanli02/DAMM---Reproduction.git 
+cd DAMM---Reproduction
 ```
+
+### requirements.txt
+The `requirements.txt` file contains all the necessary Python dependencies required to run the project. Instead of installing each dependency manually, you can install all of them using:
+
+```bash
+pip install -r requirements.txt
+```
+
+This ensures that you have the correct versions of all libraries needed for training and evaluation.
+
 
 ## Dataset Preparation
 
@@ -104,8 +114,10 @@ If the datasets are not available in your Google Drive, manually upload them or 
 
 Since the implementation is provided in Jupyter Notebooks, you need to open and run them directly:
 
-- **For Argoverse:** Open and run `Zahra_Amanli_Argoverse.ipynb`
-- **For nuScenes:** Open and run `Zahra_Amanli_nuScenes.ipynb`
+- **For nuScenes:** Open and run `01_Density_Adaptive_Model_Based_on_Motif_Matrix_for_Multi_Agent_Trajectory_Prediction_for_nuScenes_dataset_ipynb`
+
+- **For Argoverse:** Open and run `02_Density_Adaptive_Model_Based_on_Motif_Matrix_for_Multi_Agent_Trajectory_Prediction_for_Argoverse_dataset`
+
 
 ## Results & Evaluation
 
@@ -186,3 +198,8 @@ My LinkedIn profile: www.linkedin.com/in/zahra-amanli
 ---
 
 **Zahra Amanli**
+
+
+
+
+
