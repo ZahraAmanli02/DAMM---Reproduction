@@ -79,16 +79,9 @@ This ensures that you have the correct versions of all libraries needed for trai
 
 ## Dataset Preparation
 
-To run the experiments, you need to obtain the dataset first. There are two ways to acquire the dataset:
+To run the experiments, you need to obtain the dataset first. 
 
-### Option 1: Download from the Official Website
-The datasets can be downloaded from their official sources:
-- **Argoverse:** [https://www.argoverse.org](https://www.argoverse.org) 
-- **nuScenes:** [https://www.nuscenes.org](https://www.nuscenes.org)
-
-After downloading, extract the dataset and organize it into `train`, `val`, and `test` folders before use.
-
-### Option 2: Load from Cloud
+### Load from Cloud
 Instead of manually downloading the dataset, you can directly load it from the cloud. The datasets are stored in Google Drive, and the scripts provided in this repository will automatically mount the drive and load the required files.
 
 Ensure that your Google Drive has the datasets stored in the following structure:
