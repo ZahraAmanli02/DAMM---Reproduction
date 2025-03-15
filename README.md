@@ -82,7 +82,7 @@ This ensures that you have the correct versions of all libraries needed for trai
 To run the experiments, you need to obtain the dataset first. 
 
 ### Load from Cloud
-Instead of manually downloading the dataset, you can directly load it from the cloud. The datasets are stored in Google Drive, and the scripts provided in this repository will automatically mount the drive and load the required files.
+You can directly load it from the cloud. The datasets are stored in Google Drive, and the scripts provided in this repository will automatically mount the drive and load the required files.
 
 Ensure that your Google Drive has the datasets stored in the following structure:
 ```
