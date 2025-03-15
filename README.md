@@ -190,7 +190,7 @@ My LinkedIn profile: www.linkedin.com/in/zahra-amanli
 
 ---
 
-**Zahra Amanli**
+**Zahra Amanli..**
 
 
 
